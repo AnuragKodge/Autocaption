@@ -3,9 +3,9 @@ import os
 
 
 class Config(object):
-      BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-      API_ID = int(os.environ.get("APP_ID", 12345))
-      API_HASH = os.environ.get("API_HASH")
-      CAPTION_TEXT = os.environ.get("CAPTION_TEXT", "")
-      CAPTION_POSITION = os.environ.get("CAPTION_POSITION", "nil")
-      ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "AvishkarPatil")
+      BOT_TOKEN = "5876399775:AAF3Iq9AfLzG8UHj2p-GrG5amJ36HAsHBhk"
+      API_ID = "28569957"
+      API_HASH = "6a5c46966ec7a34d3da2f5a4d6494b66"
+      CAPTION_TEXT = "Anurag Kodge"
+      CAPTION_POSITION = "Bottom"
+      ADMIN_USERNAME = "AnuragKodge"
